@@ -14,3 +14,6 @@
 
 ### Project 5: Women's Wage Education and Birth Rates 
 * The project employed linear regression, time series analysis, random forests, and K-means clustering to analyze the impact of education on US birth rates and wage trends. It produced predictive models from historical data, offering insights for policymakers and businesses on the socioeconomic effects of education while 
+
+### Project 6: Suicide Rates and Health Concerns for Children
+* This project aimed to develop a predictive model for suicide risk among children under 18 using demographic and health-related data. By employing exploratory data analysis and regression techniques, I identified key predictors of suicide rates while conducting data cleaning, transformation, and visualization to support suicide prevention efforts.
