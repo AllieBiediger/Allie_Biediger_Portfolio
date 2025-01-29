@@ -9,7 +9,7 @@
 ### [Project 3: Child Care Prices Analysis - Political](https://github.com/AllieBiediger/Child_Care_Price_Analysis-) 
 * Through this analysis I explored data surrounding child care prices and factors and found actionable insights that address these issues. The presentation is done through marketing media in a political sphere where a politician is building a platform.
 
-### Project 4: Netflix Analysis
+### [Project 4: Netflix Analysis](https://github.com/AllieBiediger/Netflix_Analysis)
 * This analysis explores the top charts on the Netflix platform, and pitches a new show through a strategic roll out to build on the success of the Bridgerton and their spin-off. Examining the global trends demonstrated that new spinoffs can re-engage existing fans and attract new viewers.
   
 ### Project 5: Women's Wage Education and Birth Rates 
