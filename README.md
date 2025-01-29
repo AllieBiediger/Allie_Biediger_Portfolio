@@ -21,7 +21,7 @@
 ### [Project 7: SQL Business Mock Up](https://github.com/AllieBiediger/SQL_Business_Mock_Up)
 * In this project, I created a set of SQL queries that showcase a newly designed database that can be used to support specific business needs. The queries focus on addressing key operational questions, like tracking customers and supplier payments and identifying trends in material use.
 
-### Project 8: Gym Membership Analysis
+### [Project 8: Gym Membership Analysis](https://github.com/AllieBiediger/Gym_Membership_Analysis)
 * Through this analysis, I explored gym member data to identify trends in workout habits, session durations, and experience levels. The insights gained provide actionable recommendations to enhance client engagement and optimize class offerings for both retention and growth.
 
 ### Project 9: TSA Complaints
