@@ -12,8 +12,8 @@
 ### [Project 4: Netflix Analysis](https://github.com/AllieBiediger/Netflix_Analysis)
 * This analysis explores the top charts on the Netflix platform, and pitches a new show through a strategic roll out to build on the success of the Bridgerton and their spin-off. Examining the global trends demonstrated that new spinoffs can re-engage existing fans and attract new viewers.
   
-### Project 5: Women's Wage Education and Birth Rates 
-* The project employed linear regression, time series analysis, random forests, and K-means clustering to analyze the impact of education on US birth rates and wage trends. It produced predictive models from historical data, offering insights for policymakers and businesses on the socioeconomic effects of education while 
+### [Project 5: Women's Wage Education and Birth Rates](https://github.com/AllieBiediger/Women_Wage_Education_and_Birth_Rates) 
+* The project employed linear regression, time series analysis, random forests, and K-means clustering to analyze the impact of education on US birth rates and wage trends. It produced predictive models from historical data, offering insights for policymakers and businesses on the socioeconomic effects of education while addressing ethical considerations and data quality issues.
 
 ### Project 6: Suicide Rates and Health Concerns for Children
 * This project aimed to develop a predictive model for suicide risk among children under 18 using demographic and health-related data. By employing exploratory data analysis and regression techniques, I identified key predictors of suicide rates while conducting data cleaning, transformation, and visualization to support suicide prevention efforts.
