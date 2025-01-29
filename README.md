@@ -8,3 +8,6 @@
 
 ### Project 3: Child Care Prices Analysis - Political 
 * Through this analysis I explored data surrounding child care prices and factors and found actionable insights that address these issues. The presentation is done through marketing media in a political sphere where a politician is building a platform.
+
+### Project 4: Netflix Analysis
+* This analysis explores the top charts on the Netflix platform, and pitches a new show through a strategic roll out to build on the success of the Bridgerton and their spin-off. Examining the global trends demons
