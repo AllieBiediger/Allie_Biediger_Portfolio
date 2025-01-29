@@ -21,3 +21,7 @@
 ### Project 7: SQL Business Mock Up
 * In this project, I created a set of SQL queries that showcase a newly designed database that can be used to support specific business needs. The queries focus on addressing key operational questions, like tracking customers and supplier payments and identifying trends in material use.
 
+### Project 8: Gym Membership Analysis
+* Through this analysis, I explored gym member data to identify trends in workout habits, session durations, and experience levels. The insights gained provide actionable recommendations to enhance client engagement and optimize class offerings for both retention and growth.
+
+
