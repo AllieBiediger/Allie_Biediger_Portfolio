@@ -24,4 +24,10 @@
 ### Project 8: Gym Membership Analysis
 * Through this analysis, I explored gym member data to identify trends in workout habits, session durations, and experience levels. The insights gained provide actionable recommendations to enhance client engagement and optimize class offerings for both retention and growth.
 
+### Project 9: TSA Complaints
+* Currently in progress
+
+### Project 10: TBD
+* Currently in progress
+
 
