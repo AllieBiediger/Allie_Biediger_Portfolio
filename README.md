@@ -6,3 +6,5 @@
 ### Project 2: White House Entry Analysis
 * The analysis explored the White House Visitor Log and gained further insight into the bowling alley usage times. Trends over time were visualized to find seasonal variations in attendance, as well as daily fluctuations.
 
+### Project 3: Child Care Prices Analysis - Political 
+* Through this analysis I explored data surrounding child care prices and factors and found actionable insights that address these issues. The presentation is done through marketing media in a political sphere where a politician is building a platform.
