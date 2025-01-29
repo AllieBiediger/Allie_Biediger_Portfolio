@@ -1,6 +1,6 @@
 # Allie_Biediger_Portfolio
 
-### [Project 1: YouTube analytic analysis](https://github.com/AllieBiediger/YouTube_Analysis)
+### [Project 1: YouTube Analytic Analysis](https://github.com/AllieBiediger/YouTube_Analysis)
 * This analysis dives deeper into the factors that drive youtube viewer engagement by metrics like watch time, likes, shares, and comments. Using machine learning and a feature importance analysis it identified key trends including video duration and external factors such as major world events (COVID-19) and their effects on engagement.
 
 ### [Project 2: White House Entry Analysis](https://github.com/AllieBiediger/White_House_Bowling_Entry_Analysis)
@@ -10,8 +10,8 @@
 * Through this analysis I explored data surrounding child care prices and factors and found actionable insights that address these issues. The presentation is done through marketing media in a political sphere where a politician is building a platform.
 
 ### Project 4: Netflix Analysis
-* This analysis explores the top charts on the Netflix platform, and pitches a new show through a strategic roll out to build on the success of the Bridgerton and their spin-off. Examining the global trends demons
-
+* This analysis explores the top charts on the Netflix platform, and pitches a new show through a strategic roll out to build on the success of the Bridgerton and their spin-off. Examining the global trends demonstrated that new spinoffs can re-engage existing fans and attract new viewers.
+  
 ### Project 5: Women's Wage Education and Birth Rates 
 * The project employed linear regression, time series analysis, random forests, and K-means clustering to analyze the impact of education on US birth rates and wage trends. It produced predictive models from historical data, offering insights for policymakers and businesses on the socioeconomic effects of education while 
 
