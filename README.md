@@ -17,3 +17,7 @@
 
 ### Project 6: Suicide Rates and Health Concerns for Children
 * This project aimed to develop a predictive model for suicide risk among children under 18 using demographic and health-related data. By employing exploratory data analysis and regression techniques, I identified key predictors of suicide rates while conducting data cleaning, transformation, and visualization to support suicide prevention efforts.
+
+### Project 7: SQL Business Mock Up
+* In this project, I created a set of SQL queries that showcase a newly designed database that can be used to support specific business needs. The queries focus on addressing key operational questions, like tracking customers and supplier payments and identifying trends in material use.
+
