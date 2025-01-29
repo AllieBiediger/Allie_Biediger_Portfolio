@@ -11,3 +11,6 @@
 
 ### Project 4: Netflix Analysis
 * This analysis explores the top charts on the Netflix platform, and pitches a new show through a strategic roll out to build on the success of the Bridgerton and their spin-off. Examining the global trends demons
+
+### Project 5: Women's Wage Education and Birth Rates 
+* The project employed linear regression, time series analysis, random forests, and K-means clustering to analyze the impact of education on US birth rates and wage trends. It produced predictive models from historical data, offering insights for policymakers and businesses on the socioeconomic effects of education while 
