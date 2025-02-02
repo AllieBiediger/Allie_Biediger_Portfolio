@@ -1,3 +1,13 @@
+# About Me
+### I'm a data-driven professional with a strong background in data analysis, skilled in Python, C++, R, VBA, and Microsoft Office Suite. My passion lies in leveraging data to generate insightful reports, drive impactful projects, and support data-informed decision-making. I thrive in collaborative environments, working with key partners and contributing to high-functioning teams. With a keen eye for detail and a results-oriented approach, I'm eager to explore opportunities that allow me to apply my data science expertise to solve complex problems and drive meaningful outcomes across various industries.
+
+***
+# Contact
+### Email: alliebee173@gmail.com  
+### Phine: 830-444-7644
+
+***
+
 # Featured Projects
 
 ### [Project 1: YouTube Analytic Analysis](https://github.com/AllieBiediger/YouTube_Analysis)
