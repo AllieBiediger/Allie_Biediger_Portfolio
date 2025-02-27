@@ -6,8 +6,8 @@ I'm a data-driven professional with a strong background in data analysis, skille
 **Email:** alliebee173@gmail.com  
 **Phone:** 830-444-7644
 
-[**Resume**](https://github.com/AllieBiediger/Resume)
-
+**Resume:**
+You can find my latest resume [here](https://github.com/AllieBiediger/Resume). It highlights my experience, technical skills, and projects.
 ***
 
 # Featured Projects
