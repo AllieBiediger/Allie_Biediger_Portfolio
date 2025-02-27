@@ -5,6 +5,7 @@ I'm a data-driven professional with a strong background in data analysis, skille
 # Contact
 **Email:** alliebee173@gmail.com  
 **Phone:** 830-444-7644
+
 [**Resume**](https://github.com/AllieBiediger/Resume)
 
 ***
