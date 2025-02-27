@@ -31,7 +31,7 @@ I'm a data-driven professional with a strong background in data analysis, skille
 ### [Project 7: Gym Membership Analysis](https://github.com/AllieBiediger/Gym_Membership_Analysis)
 * Through this analysis, I explored gym member data to identify trends in workout habits, session durations, and experience levels. The insights gained provide actionable recommendations to enhance client engagement and optimize class offerings for both retention and growth.
 
-### [Project 8: TSA Complaints] (https://github.com/AllieBiediger/TSA_Complaints)
+### [Project 8: TSA Complaints](https://github.com/AllieBiediger/TSA_Complaints)
 * This analysis examines TSA complaints across major U.S. airports, focusing on the top 10 busiest locations. Using datasets on complaint categories, subcategories, and airport-specific trends, we visualized complaint patterns over time through heatmaps, custom visuals, and spatial maps. Key areas of concern, such as customer service and expedited passenger screening, were analyzed to identify trends and potential areas for improvement in passenger experience.
 
 ### [Project 9: Cultural Tourism Data Analysis](https://github.com/AllieBiediger/Cultural_Touism_Data_Analysis).
