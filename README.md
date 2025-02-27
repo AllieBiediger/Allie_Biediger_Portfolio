@@ -7,7 +7,7 @@ I'm a data-driven professional with a strong background in data analysis, skille
 **Phone:** 830-444-7644
 
 **Resume:**
-You can find my latest resume [here](https://github.com/AllieBiediger/Resume). It highlights my experience, technical skills, and projects.
+You can find my latest resume [here](https://github.com/AllieBiediger/Resume).
 ***
 
 # Featured Projects
